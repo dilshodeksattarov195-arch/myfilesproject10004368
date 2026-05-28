@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionsalidate",
+        "uuid": 17900064,
+        "checksum": "ts4vh4"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
